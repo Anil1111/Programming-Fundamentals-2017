@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\bin\Debug\6.Flatten Dictionary.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\bin\Debug\6.Flatten Dictionary.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\bin\Debug\6.Flatten Dictionary.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\obj\Debug\6.Flatten Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\obj\Debug\6.Flatten Dictionary.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\6.Flatten Dictionary\obj\Debug\6.Flatten Dictionary.pdb

@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\9.Track Downloader\bin\Debug\9.Track Downloader.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\9.Track Downloader\bin\Debug\9.Track Downloader.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\9.Track Downloader\bin\Debug\9.Track Downloader.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\9.Track Downloader\obj\Debug\9.Track Downloader.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\9.Track Downloader\obj\Debug\9.Track Downloader.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\bin\Debug\12.Character Multiplayer.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\bin\Debug\12.Character Multiplayer.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\bin\Debug\12.Character Multiplayer.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\obj\Debug\12.Character Multiplayer.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\obj\Debug\12.Character Multiplayer.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\12.Character Multiplayer\obj\Debug\12.Character Multiplayer.pdb

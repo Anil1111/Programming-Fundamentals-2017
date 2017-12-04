@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\3.Word Count\bin\Debug\3.Word Count.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\3.Word Count\bin\Debug\3.Word Count.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\3.Word Count\bin\Debug\3.Word Count.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\3.Word Count\obj\Debug\3.Word Count.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\3.Word Count\obj\Debug\3.Word Count.pdb

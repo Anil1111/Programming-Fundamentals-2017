@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\15.Integer Insertation\bin\Debug\15.Integer Insertation.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\15.Integer Insertation\bin\Debug\15.Integer Insertation.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\15.Integer Insertation\bin\Debug\15.Integer Insertation.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\15.Integer Insertation\obj\Debug\15.Integer Insertation.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\15.Integer Insertation\obj\Debug\15.Integer Insertation.pdb

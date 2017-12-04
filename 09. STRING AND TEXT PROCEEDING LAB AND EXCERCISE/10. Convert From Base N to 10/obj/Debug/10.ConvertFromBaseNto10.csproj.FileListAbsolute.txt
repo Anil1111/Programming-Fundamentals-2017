@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\bin\Debug\10.ConvertFromBaseNto10.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\bin\Debug\10.ConvertFromBaseNto10.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\bin\Debug\10.ConvertFromBaseNto10.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\obj\Debug\10.ConvertFromBaseNto10.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\obj\Debug\10.ConvertFromBaseNto10.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\10.ConvertFromBaseNto10\obj\Debug\10.ConvertFromBaseNto10.pdb

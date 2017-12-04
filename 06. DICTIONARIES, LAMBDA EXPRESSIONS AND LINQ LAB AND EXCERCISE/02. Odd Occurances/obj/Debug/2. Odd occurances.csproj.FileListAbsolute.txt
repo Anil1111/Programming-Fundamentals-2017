@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\bin\Debug\_2.Odd_occurances.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\bin\Debug\_2.Odd_occurances.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\bin\Debug\_2.Odd_occurances.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\obj\Debug\2. Odd occurances.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\obj\Debug\_2.Odd_occurances.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\2. Odd occurances\obj\Debug\_2.Odd_occurances.pdb

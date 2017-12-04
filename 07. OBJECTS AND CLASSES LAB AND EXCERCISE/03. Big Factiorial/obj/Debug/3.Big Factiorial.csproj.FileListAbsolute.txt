@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\bin\Debug\3.Big Factiorial.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\bin\Debug\3.Big Factiorial.exe
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\bin\Debug\3.Big Factiorial.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\obj\Debug\3.Big Factiorial.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\obj\Debug\3.Big Factiorial.exe
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\3.Big Factiorial\obj\Debug\3.Big Factiorial.pdb

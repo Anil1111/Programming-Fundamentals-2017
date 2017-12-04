@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\8.Count of given elements in array\bin\Debug\8.Count of given elements in array.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\8.Count of given elements in array\bin\Debug\8.Count of given elements in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\8.Count of given elements in array\bin\Debug\8.Count of given elements in array.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\8.Count of given elements in array\obj\Debug\8.Count of given elements in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\8.Count of given elements in array\obj\Debug\8.Count of given elements in array.pdb

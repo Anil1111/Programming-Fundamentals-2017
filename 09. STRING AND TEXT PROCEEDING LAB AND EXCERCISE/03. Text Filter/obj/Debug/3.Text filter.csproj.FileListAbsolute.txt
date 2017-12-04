@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\3.Text filter\bin\Debug\3.Text filter.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\3.Text filter\bin\Debug\3.Text filter.exe
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\3.Text filter\bin\Debug\3.Text filter.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\3.Text filter\obj\Debug\3.Text filter.exe
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\3.Text filter\obj\Debug\3.Text filter.pdb

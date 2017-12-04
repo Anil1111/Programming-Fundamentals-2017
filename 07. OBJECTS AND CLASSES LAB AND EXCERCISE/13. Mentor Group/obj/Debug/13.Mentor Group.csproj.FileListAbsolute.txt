@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\bin\Debug\13.Mentor Group.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\bin\Debug\13.Mentor Group.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\bin\Debug\13.Mentor Group.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\obj\Debug\13.Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\obj\Debug\13.Mentor Group.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\13.Mentor Group\obj\Debug\13.Mentor Group.pdb

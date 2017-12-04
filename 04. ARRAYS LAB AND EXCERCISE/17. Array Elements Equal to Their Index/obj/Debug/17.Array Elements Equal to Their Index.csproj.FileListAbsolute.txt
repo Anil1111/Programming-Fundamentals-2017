@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\17.Array Elements Equal to Their Index\bin\Debug\17.Array Elements Equal to Their Index.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\17.Array Elements Equal to Their Index\bin\Debug\17.Array Elements Equal to Their Index.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\17.Array Elements Equal to Their Index\bin\Debug\17.Array Elements Equal to Their Index.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\17.Array Elements Equal to Their Index\obj\Debug\17.Array Elements Equal to Their Index.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\17.Array Elements Equal to Their Index\obj\Debug\17.Array Elements Equal to Their Index.pdb

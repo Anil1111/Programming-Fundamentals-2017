@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\bin\Debug\_9.PhoneBook.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\bin\Debug\_9.PhoneBook.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\bin\Debug\_9.PhoneBook.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\obj\Debug\9. PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\obj\Debug\_9.PhoneBook.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\9. PhoneBook\obj\Debug\_9.PhoneBook.pdb

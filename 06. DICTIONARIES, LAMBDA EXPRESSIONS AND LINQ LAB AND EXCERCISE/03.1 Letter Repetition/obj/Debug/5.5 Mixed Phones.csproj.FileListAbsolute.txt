@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\bin\Debug\3.1 Letter Repetition.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\bin\Debug\3.1 Letter Repetition.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\bin\Debug\3.1 Letter Repetition.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\obj\Debug\5.5 Mixed Phones.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\obj\Debug\3.1 Letter Repetition.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.1 Letter Repetition\obj\Debug\3.1 Letter Repetition.pdb

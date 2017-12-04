@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\18.Phonebook\bin\Debug\18.Phonebook.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\18.Phonebook\bin\Debug\18.Phonebook.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\18.Phonebook\bin\Debug\18.Phonebook.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\18.Phonebook\obj\Debug\18.Phonebook.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\18.Phonebook\obj\Debug\18.Phonebook.pdb

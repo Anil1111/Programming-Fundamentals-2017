@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\5.PlaceHolders\bin\Debug\5.PlaceHolders.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\5.PlaceHolders\bin\Debug\5.PlaceHolders.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\5.PlaceHolders\bin\Debug\5.PlaceHolders.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\5.PlaceHolders\obj\Debug\5.PlaceHolders.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\5.PlaceHolders\obj\Debug\5.PlaceHolders.pdb

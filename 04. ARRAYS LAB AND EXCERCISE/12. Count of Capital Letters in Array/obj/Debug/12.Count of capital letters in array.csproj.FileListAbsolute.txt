@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\12.Count of capital letters in array\bin\Debug\12.Count of capital letters in array.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\12.Count of capital letters in array\bin\Debug\12.Count of capital letters in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\12.Count of capital letters in array\bin\Debug\12.Count of capital letters in array.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\12.Count of capital letters in array\obj\Debug\12.Count of capital letters in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\12.Count of capital letters in array\obj\Debug\12.Count of capital letters in array.pdb

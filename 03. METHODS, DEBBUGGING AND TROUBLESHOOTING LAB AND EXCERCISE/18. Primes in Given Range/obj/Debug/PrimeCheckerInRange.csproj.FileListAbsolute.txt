@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\obj\Debug\PrimeCheckerInRange.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

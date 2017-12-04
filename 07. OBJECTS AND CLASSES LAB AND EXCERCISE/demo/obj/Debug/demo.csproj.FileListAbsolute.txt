@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\bin\Debug\demo.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\bin\Debug\demo.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\bin\Debug\demo.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\obj\Debug\demo.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\demo\obj\Debug\demo.pdb

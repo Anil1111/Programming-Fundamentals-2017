@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\bin\Debug\16.Multiply Big Integer.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\bin\Debug\16.Multiply Big Integer.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\bin\Debug\16.Multiply Big Integer.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\obj\Debug\16.Multiply Big Integer.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\obj\Debug\16.Multiply Big Integer.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\16.Multiply Big Integer\obj\Debug\16.Multiply Big Integer.pdb

@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\bin\Debug\14.Distinct List.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\obj\Debug\14.Distinct List.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\bin\Debug\14.Distinct List.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\bin\Debug\14.Distinct List.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\obj\Debug\14.Distinct List.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\14.Distinct List\obj\Debug\14.Distinct List.pdb

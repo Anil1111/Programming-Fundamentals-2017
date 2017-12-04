@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\bin\Debug\8.SoftUni Beer Pong.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\bin\Debug\8.SoftUni Beer Pong.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\bin\Debug\8.SoftUni Beer Pong.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\obj\Debug\8.SoftUni Beer Pong.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\obj\Debug\8.SoftUni Beer Pong.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\8.SoftUni Beer Pong\obj\Debug\8.SoftUni Beer Pong.pdb

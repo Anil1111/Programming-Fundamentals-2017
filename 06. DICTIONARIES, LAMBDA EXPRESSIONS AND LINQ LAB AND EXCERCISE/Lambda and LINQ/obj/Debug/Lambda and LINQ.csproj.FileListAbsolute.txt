@@ -1,0 +1,1 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\bin\Debug\Lambda and LINQ.exe.config

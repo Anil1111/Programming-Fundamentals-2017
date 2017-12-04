@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\bin\Debug\6.FilterExtension.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\bin\Debug\6.FilterExtension.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\bin\Debug\6.FilterExtension.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\obj\Debug\6.FilterExtension.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\obj\Debug\6.FilterExtension.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\6.FilterExtension\obj\Debug\6.FilterExtension.pdb

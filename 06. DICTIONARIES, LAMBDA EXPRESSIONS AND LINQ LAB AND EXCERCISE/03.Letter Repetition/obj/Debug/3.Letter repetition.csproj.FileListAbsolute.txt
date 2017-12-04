@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.Letter repetition\bin\Debug\3.Letter repetition.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.Letter repetition\bin\Debug\3.Letter repetition.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.Letter repetition\bin\Debug\3.Letter repetition.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.Letter repetition\obj\Debug\3.Letter repetition.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\3.Letter repetition\obj\Debug\3.Letter repetition.pdb

@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\3.Rotate Element\bin\Debug\3.Rotate Element.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\3.Rotate Element\bin\Debug\3.Rotate Element.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\3.Rotate Element\bin\Debug\3.Rotate Element.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\3.Rotate Element\obj\Debug\3.Rotate Element.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\3.Rotate Element\obj\Debug\3.Rotate Element.pdb

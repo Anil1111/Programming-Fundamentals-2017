@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\bin\Debug\4.Merge File.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\bin\Debug\4.Merge File.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\bin\Debug\4.Merge File.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\obj\Debug\4.Merge File.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\obj\Debug\4.Merge File.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\4.Merge File\obj\Debug\4.Merge File.pdb

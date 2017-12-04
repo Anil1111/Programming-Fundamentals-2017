@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\bin\Debug\6.Square Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\bin\Debug\6.Square Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\bin\Debug\6.Square Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\obj\Debug\6.Square Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\obj\Debug\6.Square Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\6.Square Numbers\obj\Debug\6.Square Numbers.csprojResolveAssemblyReference.cache

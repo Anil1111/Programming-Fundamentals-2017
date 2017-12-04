@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\bin\Debug\13.Stuck Zipper.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\bin\Debug\13.Stuck Zipper.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\bin\Debug\13.Stuck Zipper.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\obj\Debug\13.Stuck Zipper.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\obj\Debug\13.Stuck Zipper.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\13.Stuck Zipper\obj\Debug\13.Stuck Zipper.pdb

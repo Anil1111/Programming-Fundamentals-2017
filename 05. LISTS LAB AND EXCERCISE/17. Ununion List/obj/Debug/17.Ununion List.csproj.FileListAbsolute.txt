@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\bin\Debug\17.Ununion List.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\bin\Debug\17.Ununion List.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\bin\Debug\17.Ununion List.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\obj\Debug\17.Ununion List.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\obj\Debug\17.Ununion List.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\17.Ununion List\obj\Debug\17.Ununion List.pdb

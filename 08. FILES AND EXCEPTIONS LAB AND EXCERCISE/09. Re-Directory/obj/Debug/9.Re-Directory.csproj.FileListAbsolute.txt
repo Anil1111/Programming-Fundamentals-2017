@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\bin\Debug\9.Re-Directory.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\bin\Debug\9.Re-Directory.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\bin\Debug\9.Re-Directory.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\obj\Debug\9.Re-Directory.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\obj\Debug\9.Re-Directory.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\9.Re-Directory\obj\Debug\9.Re-Directory.pdb

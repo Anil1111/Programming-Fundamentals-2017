@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\bin\Debug\10.Products.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\obj\Debug\10.Products.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\bin\Debug\10.Products.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\bin\Debug\10.Products.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\obj\Debug\10.Products.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\10.Products\obj\Debug\10.Products.pdb

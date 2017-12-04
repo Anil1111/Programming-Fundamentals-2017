@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\5.Closest two points\bin\Debug\5.Closest two points.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Closest two points\bin\Debug\5.Closest two points.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Closest two points\bin\Debug\5.Closest two points.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Closest two points\obj\Debug\5.Closest two points.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Closest two points\obj\Debug\5.Closest two points.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Closest two points\obj\Debug\5.Closest two points.pdb

@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\11.Equal Sequence of Elements\bin\Debug\11.Equal Sequence of Elements.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\11.Equal Sequence of Elements\bin\Debug\11.Equal Sequence of Elements.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\11.Equal Sequence of Elements\bin\Debug\11.Equal Sequence of Elements.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\11.Equal Sequence of Elements\obj\Debug\11.Equal Sequence of Elements.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\11.Equal Sequence of Elements\obj\Debug\11.Equal Sequence of Elements.pdb

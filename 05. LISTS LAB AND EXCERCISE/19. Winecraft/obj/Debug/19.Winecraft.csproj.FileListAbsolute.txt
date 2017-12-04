@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\19.Winecraft\bin\Debug\19.Winecraft.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\19.Winecraft\bin\Debug\19.Winecraft.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\19.Winecraft\bin\Debug\19.Winecraft.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\19.Winecraft\obj\Debug\19.Winecraft.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\19.Winecraft\obj\Debug\19.Winecraft.pdb

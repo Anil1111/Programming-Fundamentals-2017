@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\2.Largest 3 Numbers\bin\Debug\2.Largest 3 Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\2.Largest 3 Numbers\obj\Debug\2.Largest 3 Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\2.Largest 3 Numbers\obj\Debug\2.Largest 3 Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\bin\Debug\16.Legendary Farming.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\bin\Debug\16.Legendary Farming.exe
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\bin\Debug\16.Legendary Farming.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\obj\Debug\16.Legendary Farming.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\obj\Debug\16.Legendary Farming.exe
+c:\users\daisy\documents\visual studio 2015\Projects\006.LINQ and Lambda\16.Legendary Farming\obj\Debug\16.Legendary Farming.pdb

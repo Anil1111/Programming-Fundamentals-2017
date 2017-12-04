@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\bin\Debug\_5.Mixed_Phone.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\bin\Debug\_5.Mixed_Phone.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\bin\Debug\_5.Mixed_Phone.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\obj\Debug\5. Mixed Phone.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\obj\Debug\_5.Mixed_Phone.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\5. Mixed Phone\obj\Debug\_5.Mixed_Phone.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb

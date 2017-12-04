@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\10.Average Grades\bin\Debug\10.Average Grades.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\10.Average Grades\bin\Debug\10.Average Grades.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\10.Average Grades\bin\Debug\10.Average Grades.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\10.Average Grades\obj\Debug\10.Average Grades.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\10.Average Grades\obj\Debug\10.Average Grades.pdb

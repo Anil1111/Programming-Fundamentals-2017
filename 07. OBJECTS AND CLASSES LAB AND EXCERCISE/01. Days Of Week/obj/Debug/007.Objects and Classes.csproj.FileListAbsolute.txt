@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\bin\Debug\007.Objects and Classes.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\bin\Debug\007.Objects and Classes.exe
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\bin\Debug\007.Objects and Classes.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\obj\Debug\007.Objects and Classes.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\obj\Debug\007.Objects and Classes.exe
+c:\users\daisy\documents\visual studio 2015\Projects\007.Objects and Classes\007.Objects and Classes\obj\Debug\007.Objects and Classes.pdb

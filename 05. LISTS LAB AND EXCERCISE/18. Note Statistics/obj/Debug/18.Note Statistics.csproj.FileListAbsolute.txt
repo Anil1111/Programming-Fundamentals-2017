@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\bin\Debug\18.Note Statistics.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\obj\Debug\18.Note Statistics.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\bin\Debug\18.Note Statistics.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\bin\Debug\18.Note Statistics.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\obj\Debug\18.Note Statistics.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\18.Note Statistics\obj\Debug\18.Note Statistics.pdb

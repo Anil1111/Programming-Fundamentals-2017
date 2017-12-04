@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\bin\Debug\Lambda and LINQ.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\bin\Debug\Lambda and LINQ.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\bin\Debug\Lambda and LINQ.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\obj\Debug\Sum, Min, Max, Average.cs.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\obj\Debug\Lambda and LINQ.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\Lambda and LINQ\obj\Debug\Lambda and LINQ.pdb

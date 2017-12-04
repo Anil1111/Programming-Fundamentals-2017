@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\bin\Debug\6.Largest Element In Array.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\bin\Debug\6.Largest Element In Array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\bin\Debug\6.Largest Element In Array.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\obj\Debug\6.Largest Element In Array.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\obj\Debug\6.Largest Element In Array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\6.Largest Element In Array\obj\Debug\6.Largest Element In Array.pdb

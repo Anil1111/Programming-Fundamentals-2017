@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\4.Count Of Odd Numbers\bin\Debug\4.Count Of Odd Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\4.Count Of Odd Numbers\bin\Debug\4.Count Of Odd Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\4.Count Of Odd Numbers\bin\Debug\4.Count Of Odd Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\4.Count Of Odd Numbers\obj\Debug\4.Count Of Odd Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\4.Count Of Odd Numbers\obj\Debug\4.Count Of Odd Numbers.pdb

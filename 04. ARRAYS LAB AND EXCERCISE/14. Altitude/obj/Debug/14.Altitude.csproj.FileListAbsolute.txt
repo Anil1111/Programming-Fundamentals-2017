@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\14.Altitude\bin\Debug\14.Altitude.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\14.Altitude\bin\Debug\14.Altitude.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\14.Altitude\bin\Debug\14.Altitude.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\14.Altitude\obj\Debug\14.Altitude.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\14.Altitude\obj\Debug\14.Altitude.pdb

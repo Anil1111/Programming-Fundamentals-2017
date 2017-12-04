@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\helloName.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb

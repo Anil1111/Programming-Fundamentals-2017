@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\bin\Debug\003.ListsT.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\bin\Debug\003.ListsT.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\bin\Debug\003.ListsT.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\obj\Debug\003.ListsT.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\obj\Debug\003.ListsT.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\003.ListsT\obj\Debug\003.ListsT.pdb

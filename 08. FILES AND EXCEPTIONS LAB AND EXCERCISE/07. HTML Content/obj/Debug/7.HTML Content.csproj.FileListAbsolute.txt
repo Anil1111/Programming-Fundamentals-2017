@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\bin\Debug\7.HTML Content.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\bin\Debug\7.HTML Content.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\bin\Debug\7.HTML Content.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\obj\Debug\7.HTML Content.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\obj\Debug\7.HTML Content.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\7.HTML Content\obj\Debug\7.HTML Content.pdb

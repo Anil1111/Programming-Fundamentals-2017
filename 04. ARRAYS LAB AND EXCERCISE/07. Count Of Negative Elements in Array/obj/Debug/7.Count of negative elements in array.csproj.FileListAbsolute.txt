@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\7.Count of negative elements in array\bin\Debug\7.Count of negative elements in array.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\7.Count of negative elements in array\bin\Debug\7.Count of negative elements in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\7.Count of negative elements in array\bin\Debug\7.Count of negative elements in array.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\7.Count of negative elements in array\obj\Debug\7.Count of negative elements in array.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\7.Count of negative elements in array\obj\Debug\7.Count of negative elements in array.pdb

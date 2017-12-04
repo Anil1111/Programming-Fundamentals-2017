@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\bin\Debug\12.TearListInHalf.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\bin\Debug\12.TearListInHalf.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\bin\Debug\12.TearListInHalf.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\obj\Debug\12.TearListInHalf.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\obj\Debug\12.TearListInHalf.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\12.TearListInHalf\obj\Debug\12.TearListInHalf.csprojResolveAssemblyReference.cache

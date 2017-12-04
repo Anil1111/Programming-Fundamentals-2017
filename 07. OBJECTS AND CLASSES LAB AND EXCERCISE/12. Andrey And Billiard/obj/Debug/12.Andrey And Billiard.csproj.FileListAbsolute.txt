@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\bin\Debug\12.Andrey And Billiard.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\bin\Debug\12.Andrey And Billiard.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\bin\Debug\12.Andrey And Billiard.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\obj\Debug\12.Andrey And Billiard.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\obj\Debug\12.Andrey And Billiard.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\12.Andrey And Billiard\obj\Debug\12.Andrey And Billiard.csprojResolveAssemblyReference.cache

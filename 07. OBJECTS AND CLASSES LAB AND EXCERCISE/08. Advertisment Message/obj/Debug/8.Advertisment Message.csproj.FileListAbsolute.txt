@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\bin\Debug\8.Advertisment Message.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\obj\Debug\8.Advertisment Message.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\bin\Debug\8.Advertisment Message.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\bin\Debug\8.Advertisment Message.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\obj\Debug\8.Advertisment Message.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\8.Advertisment Message\obj\Debug\8.Advertisment Message.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\8.Sentence Split\bin\Debug\8.Sentence Split.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\8.Sentence Split\bin\Debug\8.Sentence Split.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\8.Sentence Split\bin\Debug\8.Sentence Split.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\8.Sentence Split\obj\Debug\8.Sentence Split.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\8.Sentence Split\obj\Debug\8.Sentence Split.pdb

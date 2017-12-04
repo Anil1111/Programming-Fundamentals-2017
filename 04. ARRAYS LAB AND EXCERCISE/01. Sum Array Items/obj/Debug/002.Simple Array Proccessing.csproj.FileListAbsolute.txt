@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\bin\Debug\002.Simple Array Proccessing.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\obj\Debug\002.Simple Array Proccessing.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\bin\Debug\002.Simple Array Proccessing.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\bin\Debug\002.Simple Array Proccessing.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\obj\Debug\002.Simple Array Proccessing.exe
+c:\users\daisy\documents\visual studio 2015\Projects\002.Simple Array Proccessing\002.Simple Array Proccessing\obj\Debug\002.Simple Array Proccessing.pdb

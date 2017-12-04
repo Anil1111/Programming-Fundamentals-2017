@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\4.Split By Word Casing\bin\Debug\4.Split By Word Casing.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\4.Split By Word Casing\bin\Debug\4.Split By Word Casing.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\4.Split By Word Casing\bin\Debug\4.Split By Word Casing.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\4.Split By Word Casing\obj\Debug\4.Split By Word Casing.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\4.Split By Word Casing\obj\Debug\4.Split By Word Casing.pdb

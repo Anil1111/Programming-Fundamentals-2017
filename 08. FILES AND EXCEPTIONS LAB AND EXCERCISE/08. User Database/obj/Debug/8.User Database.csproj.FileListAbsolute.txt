@@ -1,0 +1,7 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\bin\Debug\8.User Database.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\obj\Debug\8.User Database.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\bin\Debug\8.User Database.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\bin\Debug\8.User Database.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\obj\Debug\8.User Database.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\obj\Debug\8.User Database.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\008.Files and Exceptions\8.User Database\bin\Debug\TextFile1.txt

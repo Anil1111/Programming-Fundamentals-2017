@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\5.Sort Numbers\bin\Debug\5.Sort Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\5.Sort Numbers\bin\Debug\5.Sort Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\5.Sort Numbers\bin\Debug\5.Sort Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\5.Sort Numbers\obj\Debug\5.Sort Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\5.Sort Numbers\obj\Debug\5.Sort Numbers.pdb

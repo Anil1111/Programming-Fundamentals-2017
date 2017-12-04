@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\daisy\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

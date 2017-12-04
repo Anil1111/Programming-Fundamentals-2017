@@ -1,0 +1,1 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\10.Fix emails\bin\Debug\10.Fix emails.exe.config

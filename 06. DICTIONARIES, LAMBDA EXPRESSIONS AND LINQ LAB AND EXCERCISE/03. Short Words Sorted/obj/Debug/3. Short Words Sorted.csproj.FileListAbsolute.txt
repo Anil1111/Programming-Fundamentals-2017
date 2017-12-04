@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\3. Short Words Sorted\bin\Debug\_3.Short_Words_Sorted.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\3. Short Words Sorted\obj\Debug\_3.Short_Words_Sorted.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Lambda and LINQ\3. Short Words Sorted\obj\Debug\_3.Short_Words_Sorted.pdb

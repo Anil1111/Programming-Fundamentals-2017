@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\bin\Debug\15.Sum Big Numbers.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\bin\Debug\15.Sum Big Numbers.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\bin\Debug\15.Sum Big Numbers.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\obj\Debug\15.Sum Big Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\obj\Debug\15.Sum Big Numbers.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\15.Sum Big Numbers\obj\Debug\15.Sum Big Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\bin\Debug\5.Folder size.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\bin\Debug\5.Folder size.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\bin\Debug\5.Folder size.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\obj\Debug\5.Folder size.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\obj\Debug\5.Folder size.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Files, Directories and Exceptions\5.Folder size\obj\Debug\5.Folder size.pdb

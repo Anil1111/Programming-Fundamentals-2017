@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\bin\Debug\_7.Shopping_Spree.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\obj\Debug\7. Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\bin\Debug\_7.Shopping_Spree.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\bin\Debug\_7.Shopping_Spree.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\obj\Debug\_7.Shopping_Spree.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Lambda and LINQ\7. Shopping Spree\obj\Debug\_7.Shopping_Spree.pdb

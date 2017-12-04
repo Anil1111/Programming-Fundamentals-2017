@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\bin\Debug\_7.User_Logins.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\bin\Debug\_7.User_Logins.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\bin\Debug\_7.User_Logins.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\obj\Debug\7. User Logins.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\obj\Debug\_7.User_Logins.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\7. User Logins\obj\Debug\_7.User_Logins.pdb

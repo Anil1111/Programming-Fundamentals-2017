@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\bin\Debug\5.Rectangle Position.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\bin\Debug\5.Rectangle Position.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\bin\Debug\5.Rectangle Position.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\obj\Debug\5.Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\obj\Debug\5.Rectangle Position.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\007.Objects and Classes\5.Rectangle Position\obj\Debug\5.Rectangle Position.pdb

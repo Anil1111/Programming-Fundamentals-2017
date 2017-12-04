@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\bin\Debug\009.String and Text Proceeding.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\bin\Debug\009.String and Text Proceeding.exe
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\bin\Debug\009.String and Text Proceeding.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\obj\Debug\009.String and Text Proceeding.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\obj\Debug\009.String and Text Proceeding.exe
+c:\users\daisy\documents\visual studio 2015\Projects\009.String and Text Proceeding\009.String and Text Proceeding\obj\Debug\009.String and Text Proceeding.pdb

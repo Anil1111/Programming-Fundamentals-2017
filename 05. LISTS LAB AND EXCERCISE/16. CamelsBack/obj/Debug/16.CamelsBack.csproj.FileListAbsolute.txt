@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\16.CamelsBack\bin\Debug\16.CamelsBack.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\16.CamelsBack\bin\Debug\16.CamelsBack.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\16.CamelsBack\bin\Debug\16.CamelsBack.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\16.CamelsBack\obj\Debug\16.CamelsBack.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\16.CamelsBack\obj\Debug\16.CamelsBack.pdb

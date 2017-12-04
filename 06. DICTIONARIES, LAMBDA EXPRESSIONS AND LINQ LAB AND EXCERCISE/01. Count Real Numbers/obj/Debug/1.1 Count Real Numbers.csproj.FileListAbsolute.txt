@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\bin\Debug\1.1 Count Real Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\bin\Debug\1.1 Count Real Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\bin\Debug\1.1 Count Real Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\obj\Debug\1.1 Count Real Numbers.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\obj\Debug\1.1 Count Real Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\1.1 Count Real Numbers\obj\Debug\1.1 Count Real Numbers.pdb

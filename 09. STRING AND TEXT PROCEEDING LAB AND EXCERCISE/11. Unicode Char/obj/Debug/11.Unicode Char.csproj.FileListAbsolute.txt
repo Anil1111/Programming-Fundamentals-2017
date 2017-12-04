@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\bin\Debug\11.Unicode Char.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\bin\Debug\11.Unicode Char.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\bin\Debug\11.Unicode Char.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\obj\Debug\11.Unicode Char.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\obj\Debug\11.Unicode Char.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\11.Unicode Char\obj\Debug\11.Unicode Char.csprojResolveAssemblyReference.cache

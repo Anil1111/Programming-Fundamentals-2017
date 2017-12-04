@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\bin\Debug\6.JSON Stringify.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\bin\Debug\6.JSON Stringify.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\bin\Debug\6.JSON Stringify.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\obj\Debug\6.JSON Stringify.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\obj\Debug\6.JSON Stringify.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\009.String and Text Proceeding\6.JSON Stringify\obj\Debug\6.JSON Stringify.pdb

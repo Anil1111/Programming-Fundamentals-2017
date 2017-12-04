@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\7.Count Numbers\bin\Debug\7.Count Numbers.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\7.Count Numbers\bin\Debug\7.Count Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\7.Count Numbers\bin\Debug\7.Count Numbers.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\7.Count Numbers\obj\Debug\7.Count Numbers.exe
+c:\users\daisy\documents\visual studio 2015\Projects\003.ListsT\7.Count Numbers\obj\Debug\7.Count Numbers.pdb

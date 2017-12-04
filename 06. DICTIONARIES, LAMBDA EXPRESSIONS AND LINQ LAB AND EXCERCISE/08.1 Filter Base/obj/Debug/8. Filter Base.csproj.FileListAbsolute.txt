@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\bin\Debug\_8.Filter_Base.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\bin\Debug\_8.Filter_Base.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\bin\Debug\_8.Filter_Base.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\obj\Debug\8. Filter Base.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\obj\Debug\_8.Filter_Base.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Dictionary\8. Filter Base\obj\Debug\_8.Filter_Base.pdb
