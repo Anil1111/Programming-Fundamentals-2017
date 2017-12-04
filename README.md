@@ -1,4 +1,3 @@
-# Programming-Fundamentals-2017
 
 # Programming-Fundamentals-2017
 
