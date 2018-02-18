@@ -34,7 +34,7 @@ Course start: 18 September 2017 Course end: 05 November 2017  Course type: onlin
 23 <a href="https://github.com/russeva/Programming-Fundamentals-2017/tree/master/11.%20EXAM%20PREPARATION%20I"> EXAM PREPARATION I</a> <br>
 24 <a href="https://github.com/russeva/Programming-Fundamentals-2017/tree/master/12.%20EXAM%20PREPARATION%20II">EXAM PREPARATION II </a><br>
 25 <a href="https://github.com/russeva/Programming-Fundamentals-2017/tree/master/13.%20EXAM%20PREPARATION%20III">EXAM PREPARATION III </a><br>
-26 < a href="https://github.com/russeva/Programming-Fundamentals-2017/tree/master/14.%20EXAM%20PREPARATION%20IV">EXAM PREPARATION IV </a><br>
+26 <a href="https://github.com/russeva/Programming-Fundamentals-2017/tree/master/14.%20EXAM%20PREPARATION%20IV">EXAM PREPARATION IV </a><br>
 27 PRACTICAL ЕXAM<br>
 
 
