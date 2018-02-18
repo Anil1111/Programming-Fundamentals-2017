@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\bin\Debug\3.Nether realms.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\bin\Debug\3.Nether realms.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\bin\Debug\3.Nether realms.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\obj\Debug\3.Nether realms.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\obj\Debug\3.Nether realms.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\3.Nether realms\obj\Debug\3.Nether realms.pdb

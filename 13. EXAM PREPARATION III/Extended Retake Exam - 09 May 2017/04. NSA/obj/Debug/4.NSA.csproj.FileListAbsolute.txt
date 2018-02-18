@@ -1,0 +1,5 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Extended Retake Exam - 09 May 2017\3.NSA\bin\Debug\3.NSA.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Extended Retake Exam - 09 May 2017\3.NSA\bin\Debug\3.NSA.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Extended Retake Exam - 09 May 2017\3.NSA\bin\Debug\3.NSA.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Extended Retake Exam - 09 May 2017\3.NSA\obj\Debug\3.NSA.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Extended Retake Exam - 09 May 2017\3.NSA\obj\Debug\3.NSA.pdb

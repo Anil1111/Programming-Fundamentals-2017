@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\2.Entertain\bin\Debug\2.Entertain.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\2.Entertain\bin\Debug\2.Entertain.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\2.Entertain\bin\Debug\2.Entertain.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\2.Entertain\obj\Debug\2.Entertain.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\2.Entertain\obj\Debug\2.Entertain.pdb

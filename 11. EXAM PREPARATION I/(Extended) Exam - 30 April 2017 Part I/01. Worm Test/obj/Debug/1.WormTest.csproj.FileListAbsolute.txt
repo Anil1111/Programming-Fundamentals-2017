@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\bin\Debug\(Extended) Exam - 30 April 2017 Part I.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\bin\Debug\(Extended) Exam - 30 April 2017 Part I.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\bin\Debug\(Extended) Exam - 30 April 2017 Part I.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\obj\Debug\1.WormTest.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\obj\Debug\(Extended) Exam - 30 April 2017 Part I.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\(Extended) Exam - 30 April 2017 Part I\obj\Debug\(Extended) Exam - 30 April 2017 Part I.pdb

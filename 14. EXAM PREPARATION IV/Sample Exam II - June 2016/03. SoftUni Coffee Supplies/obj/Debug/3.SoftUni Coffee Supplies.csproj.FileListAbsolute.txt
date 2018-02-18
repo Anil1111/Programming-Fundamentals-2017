@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\bin\Debug\3.SoftUni Coffee Supplies.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\bin\Debug\3.SoftUni Coffee Supplies.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\bin\Debug\3.SoftUni Coffee Supplies.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\obj\Debug\3.SoftUni Coffee Supplies.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\obj\Debug\3.SoftUni Coffee Supplies.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\3.SoftUni Coffee Supplies\obj\Debug\3.SoftUni Coffee Supplies.pdb

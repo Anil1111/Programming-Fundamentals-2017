@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\bin\Debug\2.SoftUni Karaoke.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\bin\Debug\2.SoftUni Karaoke.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\bin\Debug\2.SoftUni Karaoke.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\obj\Debug\2.SoftUni Karaoke.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\obj\Debug\2.SoftUni Karaoke.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\2.SoftUni Karaoke\obj\Debug\2.SoftUni Karaoke.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\bin\Debug\2.Hornet Comm.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\bin\Debug\2.Hornet Comm.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\bin\Debug\2.Hornet Comm.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\obj\Debug\2.Hornet Comm.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\obj\Debug\2.Hornet Comm.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\2.Hornet Comm\obj\Debug\2.Hornet Comm.pdb

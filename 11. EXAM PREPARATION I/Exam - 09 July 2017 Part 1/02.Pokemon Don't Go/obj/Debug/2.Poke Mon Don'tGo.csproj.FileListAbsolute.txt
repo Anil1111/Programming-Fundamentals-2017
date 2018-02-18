@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\2.Poke Mon Don'tGo\bin\Debug\2.Poke Mon Don'tGo.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\2.Poke Mon Don'tGo\bin\Debug\2.Poke Mon Don'tGo.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\2.Poke Mon Don'tGo\bin\Debug\2.Poke Mon Don'tGo.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\2.Poke Mon Don'tGo\obj\Debug\2.Poke Mon Don'tGo.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\2.Poke Mon Don'tGo\obj\Debug\2.Poke Mon Don'tGo.pdb

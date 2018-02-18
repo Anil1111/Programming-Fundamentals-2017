@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\bin\Debug\4.Population Aggregation.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\bin\Debug\4.Population Aggregation.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\bin\Debug\4.Population Aggregation.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\obj\Debug\4.Population Aggregation.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\obj\Debug\4.Population Aggregation.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Sample Exam II - June 2016\4.Population Aggregation\obj\Debug\4.Population Aggregation.pdb

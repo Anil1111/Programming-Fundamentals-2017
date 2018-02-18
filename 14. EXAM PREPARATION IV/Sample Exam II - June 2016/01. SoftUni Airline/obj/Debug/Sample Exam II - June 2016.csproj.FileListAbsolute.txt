@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\bin\Debug\Sample Exam II - June 2016.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\bin\Debug\Sample Exam II - June 2016.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\bin\Debug\Sample Exam II - June 2016.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\obj\Debug\Sample Exam II - June 2016.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\obj\Debug\Sample Exam II - June 2016.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Sample Exam II - June 2016\Sample Exam II - June 2016\obj\Debug\Sample Exam II - June 2016.pdb

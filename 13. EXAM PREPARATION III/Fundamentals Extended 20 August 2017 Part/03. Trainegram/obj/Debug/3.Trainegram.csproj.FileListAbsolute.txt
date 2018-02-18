@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\bin\Debug\3.Trainegram.exe.config
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\bin\Debug\3.Trainegram.exe
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\bin\Debug\3.Trainegram.pdb
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\obj\Debug\3.Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\obj\Debug\3.Trainegram.exe
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\3.Trainegram\obj\Debug\3.Trainegram.pdb

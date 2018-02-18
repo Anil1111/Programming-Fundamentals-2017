@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\bin\Debug\4.Worms World Party.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\bin\Debug\4.Worms World Party.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\bin\Debug\4.Worms World Party.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\obj\Debug\4.Worms World Party.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\obj\Debug\4.Worms World Party.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\4.Worms World Party\obj\Debug\4.Worms World Party.pdb

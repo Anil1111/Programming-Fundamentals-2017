@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\bin\Debug\2.Spy Gram.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\bin\Debug\2.Spy Gram.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\bin\Debug\2.Spy Gram.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\obj\Debug\2.Spy Gram.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\obj\Debug\2.Spy Gram.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Extended Retake Exam - 09 May 2017\2.Spy Gram\obj\Debug\2.Spy Gram.pdb

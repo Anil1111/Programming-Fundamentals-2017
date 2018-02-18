@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\bin\Debug\2.Wormhole.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\bin\Debug\2.Wormhole.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\bin\Debug\2.Wormhole.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\obj\Debug\2.Wormhole.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\obj\Debug\2.Wormhole.exe
+c:\users\daisy\documents\visual studio 2015\Projects\(Extended) Exam - 30 April 2017 Part I\2.Wormhole\obj\Debug\2.Wormhole.pdb

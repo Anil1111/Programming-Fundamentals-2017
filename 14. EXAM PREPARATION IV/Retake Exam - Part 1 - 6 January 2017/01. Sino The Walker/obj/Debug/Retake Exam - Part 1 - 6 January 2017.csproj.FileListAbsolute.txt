@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\bin\Debug\Retake Exam - Part 1 - 6 January 2017.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\bin\Debug\Retake Exam - Part 1 - 6 January 2017.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\bin\Debug\Retake Exam - Part 1 - 6 January 2017.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\obj\Debug\Retake Exam - Part 1 - 6 January 2017.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\obj\Debug\Retake Exam - Part 1 - 6 January 2017.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\Retake Exam - Part 1 - 6 January 2017\obj\Debug\Retake Exam - Part 1 - 6 January 2017.pdb

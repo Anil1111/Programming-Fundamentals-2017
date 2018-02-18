@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\bin\Debug\2Ladybugs.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\bin\Debug\2Ladybugs.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\bin\Debug\2Ladybugs.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\obj\Debug\2Ladybugs.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\obj\Debug\2Ladybugs.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Taking Sample Exam 2\2Ladybugs\obj\Debug\2Ladybugs.pdb

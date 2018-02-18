@@ -1,0 +1,5 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\3.Pokemondontgo\bin\Debug\3.Pokemondontgo.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\3.Pokemondontgo\bin\Debug\3.Pokemondontgo.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\3.Pokemondontgo\bin\Debug\3.Pokemondontgo.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\3.Pokemondontgo\obj\Debug\3.Pokemondontgo.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\3.Pokemondontgo\obj\Debug\3.Pokemondontgo.pdb

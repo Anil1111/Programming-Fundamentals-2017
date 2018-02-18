@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\bin\Debug\4.Regexmon.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\obj\Debug\4.Regexmon.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\bin\Debug\4.Regexmon.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\bin\Debug\4.Regexmon.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\obj\Debug\4.Regexmon.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 09 July 2017 Part 1\4.Regexmon\obj\Debug\4.Regexmon.pdb

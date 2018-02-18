@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\bin\Debug\3.Hornet Assault.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\obj\Debug\3.Hornet Assault.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\bin\Debug\3.Hornet Assault.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\bin\Debug\3.Hornet Assault.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\obj\Debug\3.Hornet Assault.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 26 February 2017 Part I\3.Hornet Assault\obj\Debug\3.Hornet Assault.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\bin\Debug\4.Winning Tickets.exe.config
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\bin\Debug\4.Winning Tickets.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\bin\Debug\4.Winning Tickets.pdb
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\obj\Debug\4.Winning Tickets.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\obj\Debug\4.Winning Tickets.exe
+C:\Users\Daisy\Documents\Visual Studio 2015\Projects\Retake Exam - Part 1 - 6 January 2017\4.Winning Tickets\obj\Debug\4.Winning Tickets.pdb

@@ -1,0 +1,6 @@
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\bin\Debug\4.Trainlands.exe.config
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\bin\Debug\4.Trainlands.exe
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\bin\Debug\4.Trainlands.pdb
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\obj\Debug\4.Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\obj\Debug\4.Trainlands.exe
+C:\Users\Daisy\documents\visual studio 2015\Projects\Fundamentals Extended 20 August 2017 Part\4.Trainlands\obj\Debug\4.Trainlands.pdb

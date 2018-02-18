@@ -1,0 +1,6 @@
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\bin\Debug\2.Coffee Orders.exe.config
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\bin\Debug\2.Coffee Orders.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\bin\Debug\2.Coffee Orders.pdb
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\obj\Debug\2.Coffee Orders.csprojResolveAssemblyReference.cache
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\obj\Debug\2.Coffee Orders.exe
+c:\users\daisy\documents\visual studio 2015\Projects\Exam - 12 June 2016\2.Coffee Orders\obj\Debug\2.Coffee Orders.pdb
